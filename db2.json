@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "title": "Wow!Momo",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://www.wowmomo.com/wp-content/uploads/2020/06/Burma-Rice-With-Chilli-Paneer.jpg",
+            "area": "Rajiv Chowk"
+        },
+        {
+            "title": "Mc Donald's",
+            "ratings": "4.4",
+            "time": "37",
+            "images": "https://www.foodandwine.com/thmb/8N5jLutuTK4TDzpDkhMfdaHLZxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/McDonalds-Hacks-Menu-FT-1-BLOG0122-4ac9d62f6c9143be8da3d0a8553348b0.jpg",
+            "area": "Ansal Plaza"
+        },
+        {
+            "title": "Cream Caver",
+            "ratings": "4.2",
+            "time": "39",
+            "images": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2017/08/24095143/23082017_SupremeSnacks_01.jpg",
+            "area": "Lajpat Nagar"
+        },
+        {
+            "title": "Taco Bell",
+            "ratings": "3.9",
+            "time": "44",
+            "images": "https://b.zmtcdn.com/data/pictures/2/20944892/8c6c56d99119ad60c5ec554f86ab5c98.jpg?fit=around|960:500&crop=960:500;*,*",
+            "area": "Kamla Nagar"
+        },
+        {
+            "title": "KFC",
+            "ratings": "4.1",
+            "time": "40",
+            "images": "https://images.ctfassets.net/wtodlh47qxpt/2MisPscDV1k33qLnGwQ2il/14bdab6e4b9e25e1b91a8578df5097f2/CAT86",
+            "area": "Urban Estate"
+        },
+        {
+            "title": "Burger King",
+            "ratings": "4.0",
+            "time": "39",
+            "images": "https://www.greenqueen.com.hk/wp-content/uploads/2021/10/Burger-King-Spains-Madrid-Branch-Turns-Into-Vegetarian-%E2%80%98Vurger-King.jpg",
+            "area": "Karol Bagh"
+        },
+        {
+            "title": "Subway",
+            "ratings": "3.5",
+            "time": "20",
+            "images": "https://b.zmtcdn.com/data/pictures/0/15090/3679c0c7694e0c06c6d446a56046a95a.jpg?fit=around|960:500&crop=960:500;*,*",
+            "area": "Fountain Chowk"
+        },
+        {
+            "title": "Dominos",
+            "ratings": "3.5",
+            "time": "48",
+            "images": "https://cdn0.desidime.com/cdn-cgi/image/fit=crop,f=auto,onerror=redirect,w=1200,h=900,q=90/topics/photos/1778729/original/ThumbnailDominos-01.jpg",
+            "area": "Gill Road"
+        },
+        {
+            "title": "Pizza Hut",
+            "ratings": "3.7",
+            "time": "43",
+            "images": "https://b.zmtcdn.com/data/pictures/chains/3/15253/fdf5e5079a0352d872204dad39bc0f08.jpg",
+            "area": "Pavilion Mall"
+        },
+        {
+            "title": "Endless Pizza",
+            "ratings": "3.9",
+            "time": "40",
+            "images": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ufoqtdybl3dzf9z3skul",
+            "area": "Hargobind Nagar"
+        },
+        {
+            "title": "Zomato",
+            "ratings": "4.5",
+            "time": "30",
+            "images": "https://b.zmtcdn.com/data/pictures/chains/6/3301486/828f166cf5dc2ac40565447c99d415d0.jpg",
+            "area": "Middle Circle"
+        },
+        {
+            "title": "Samuddra Veg",
+            "ratings": "4.4",
+            "time": "25",
+            "images": "https://content.jdmagicbox.com/comp/def_content_category/indian-delivery-restaurants/360-f-361869194-7jgmiosj2iuni0ayovhvyhkvan6pkoah-indian-delivery-restaurants-1-dbf9p.jpg",
+            "area": "swargate"
+        },
+        {
+            "title": "Rama Krishna",
+            "ratings": "4.6",
+            "time": "30",
+            "images": "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/14104/W8WqbBSNrTMj.jpg",
+            "area": "Sector 32"
+        },
+        {
+            "title": "Kwality Family",
+            "ratings": "4.8",
+            "time": "35",
+            "images": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/d86aa020-faad-4863-820d-a2d759c7a7a3_490968.JPG",
+            "area": "Camp"
+        },
+        {
+            "title": "Wrong's Kitchen",
+            "ratings": "4.0",
+            "time": "25",
+            "images": "https://cdn2.foodviva.com/static-content/food-images/roti-paratha-recipes/bhatura-recipe/bhatura-recipe.jpg",
+            "area": "Sadashiv Path"
+        },
+        {
+            "title": "Garden Vada",
+            "ratings": "4.3",
+            "time": "30",
+            "images": "https://b.zmtcdn.com/data/pictures/chains/0/13280/fff76391d8dfbdfcfb7bbad4b2007fb6.jpg",
+            "area": "Deccan Gymkhana"
+        },
+        {
+            "title": "George Restaurant",
+            "ratings": "4.6",
+            "time": "20",
+            "images": "https://www.swhtemeculavalley.com/sites/temeculavalleyhospital.com/files/chicken-soup-chinese-800x600.jpg",
+            "area": "Camp"
+        },
+        {
+            "title": "Marz O Rin",
+            "ratings": "3.9",
+            "time": "25",
+            "images": "https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/about_us/16.jpg?tr=w-3840 ",
+            "area": "Sector 34"
+        },
+        {
+            "title": "Shahi Dawat",
+            "ratings": "4.5",
+            "time": "35",
+            "images": "https://parcelup.com/wp-content/uploads/2023/01/chinese-new-year-food-feast-scaled.jpg",
+            "area": "Viman Nagar"
+        },
+        {
+            "title": "Hotel Dawat",
+            "ratings": "4.2",
+            "time": "20",
+            "images": "https://media-cdn.tripadvisor.com/media/photo-s/14/f5/98/2d/dawat-e-punjab.jpg",
+            "area": "Sector 32"
+        }
+    ]
+}
